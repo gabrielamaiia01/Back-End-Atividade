@@ -25,7 +25,7 @@ Este repositório contém o código do back-end para o aplicativo de CRUD de Pro
 
 3. Inicie o servidor:
    ```bash
-   npm start
+   npm run dev
    ```
 
 O servidor estará disponível em `http://localhost:3030`.
