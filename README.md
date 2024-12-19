@@ -1,6 +1,6 @@
 # Back-End para Aplicativo de CRUD de Produtos
 
-Aluno: Gabriela Santana Maia
+# Aluno(a): Gabriela Santana Maia
 
 Este repositório contém o código do back-end para o aplicativo de CRUD de Produtos de Estoque.
 
